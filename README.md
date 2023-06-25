@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>I'm Andrew Sampson.</h1>
+  <h1>I'm Andrew Sampson</h1>
 </div>
 
 I was born and raised in Georgia, but now I divide my time between New York City and Paris. I've been a founder all my life, though not in the traditional sense. I took the bold step of dropping out of high school during my freshman year to dedicate myself fully to software development.
